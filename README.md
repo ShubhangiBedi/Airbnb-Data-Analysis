@@ -1,5 +1,6 @@
 # Airbnb Data Analysis
 **Project Overview 📊**
+
 This project, "Airbnb Data Analysis Using Tableau," aims to analyze Airbnb listings to identify key market trends, pricing patterns, and occupancy rates. By evaluating factors such as total listings, average price, availability, and review scores, the study provides actionable insights for hosts, investors, and market analysts. The analysis helps with optimizing pricing, identifying high-demand locations, and understanding seasonal trends for data-driven decision-making in the short-term rental market.
 
 
